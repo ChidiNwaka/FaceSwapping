@@ -10,8 +10,8 @@ After the swap:
 ![alt text](img/after.png)
 
 
-  Please download and have fun with it. Install the following modules: numpy. Run: 
+  Please download and have fun with it.
 
-```python3 main.py``` 
+ Run the following command: ```python3 main.py``` 
 
 Don’t forget to let me know what you think. Thank you.
