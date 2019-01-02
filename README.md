@@ -2,7 +2,15 @@ Using your computer’s webcam, I built a face-swap application for you and your
 
 Before the swap:
 
-After the swap:  Please download and have fun with it. Install the following modules: numpy. Run: 
+![alt text](img/before.png)
+
+
+After the swap:
+
+![alt text](img/after.png)
+
+
+  Please download and have fun with it. Install the following modules: numpy. Run: 
 
 ```python3 main.py``` 
 
