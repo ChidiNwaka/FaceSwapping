@@ -12,6 +12,6 @@ After the swap:
 
   Please download and have fun with it.
 
- Run the following command: ```python3 main.py``` 
+ Run: ```python3 main.py``` 
 
 Don’t forget to let me know what you think. Thank you.
